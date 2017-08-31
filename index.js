@@ -16,6 +16,11 @@ function johnLennonFacts(factsArray) {
   return ansArr;
 }
 
-function iLoveTheBeatles() {
-  
+function iLoveTheBeatles(num) {
+  const ansArr = []
+  do {
+    ansArr.push("I love the Beatles!")
+    num ++
+  } while
+
 }
