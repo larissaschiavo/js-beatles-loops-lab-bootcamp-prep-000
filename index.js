@@ -12,4 +12,5 @@ function johnLennonFacts(factsArray) {
   while (i < factsArray.length) {
     ansArr.push(`factsArray[i]` + "!!!")
   }
+  return ansArr
 }
