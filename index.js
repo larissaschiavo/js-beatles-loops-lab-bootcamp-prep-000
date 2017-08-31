@@ -5,3 +5,5 @@ function theBeatlesPlay(musicianArray, instrumentArray) {
   }
   return answerArray;
 }
+
+function johnLennonFacts
