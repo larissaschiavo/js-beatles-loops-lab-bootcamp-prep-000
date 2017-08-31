@@ -10,8 +10,8 @@ function johnLennonFacts(factsArray) {
   const ansArr = [];
   let i = 0;
   while (i < factsArray.length) {
-    ansArr.push(`factsArray[i]` + "!!!")
-    i ++ 
+    ansArr.push(`${factsArray[i]}` + "!!!")
+    i ++
   }
   return ansArr;
 }
